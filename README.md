@@ -2,7 +2,7 @@
 
 <img src='./img/vitor.jpg' />
 
-### 💻 About Me 
+## 💻 About Me 
 
 I love to learn and discuss about new technologies
 - 🤔 I’m currently working on and looking for help with my current big project [heartthrob](https://github.com/vtnorton/heartthrob), on the repo page you can see the roadmap.
@@ -13,7 +13,7 @@ I love to learn and discuss about new technologies
 - <a href="https://vtnorton.com" >More info about me</a>
 
 
-### Tech stacks:
+## Tech stacks
 
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -54,10 +54,8 @@ I love to learn and discuss about new technologies
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
          
-<br />
-<br />
-
-### My Stats
+##
+## My Stats
 
 <p>
 <a href="https://github.com/vtnorton">
@@ -66,6 +64,7 @@ I love to learn and discuss about new technologies
 </a>
 </p>
 
+##
 ##  🤝🏻 Connect with Me
 
 
