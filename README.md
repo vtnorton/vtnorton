@@ -12,6 +12,12 @@ I love to learn and discuss about new technologies
 - 👯 I’m looking to collaborate on projects that increases digital inclusion, help people how to code or just for fun.
 - <a href="https://vtnorton.com" >More info about me</a>
 
+### My Stats
+
+<a href="https://github.com/vtnorton">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtnorton&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vtnorton&theme=dark&layout=compact" />
+</a>
 
 ## Tech stacks
 
@@ -37,11 +43,11 @@ I love to learn and discuss about new technologies
 
 ### dotnet
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <br />
 
 
@@ -70,16 +76,6 @@ I love to learn and discuss about new technologies
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <br />
-         
-##
-### My Stats
-
-<p>
-<a href="https://github.com/vtnorton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtnorton&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vtnorton&theme=radical&layout=compact" />
-</a>
-</p>
 
 
 ###  🤝🏻 Connect with Me
