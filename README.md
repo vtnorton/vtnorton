@@ -40,7 +40,7 @@ I love to learn and discuss about new technologies
 
 ## Tech stacks
 
-### Front-end
+### frontend
 
 <img align="left" width="32px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="32px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
