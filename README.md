@@ -2,7 +2,7 @@
 
 <img src='./img/vitor.jpg' />
 
-### 💻 About Me 
+## 💻 About Me 
 
 I love to learn and discuss about new technologies
 - 🤔 I’m currently working on and looking for help with my current big project [heartthrob](https://github.com/vtnorton/heartthrob), on the repo page you can see the roadmap.
@@ -10,9 +10,27 @@ I love to learn and discuss about new technologies
 - 🔭 I’m currently working at <a href="https://github.com/meliuz/">Méliuz</a> as Tech Writer.
 - 📖 Studying developer experiences
 - 👯 I’m looking to collaborate on projects that increases digital inclusion, help people how to code or just for fun.
-- <a href="https://vtnorton.com" >More info about me</a>
+- 🚀 <a href="https://vtnorton.com" >More info about me</a>
 
-### My Stats
+###  🤝🏻 Connect with Me
+
+<a href="https://www.linkedin.com/in/vtnorton/"/>
+  <img align="left" alt="LinkedIn" width="32px" src="./img/linkedin.png">
+</a>
+<a href="mailto:vitor@vtnorton.com">
+  <img align="left" alt="E-mail" width="32px" src="./img/outlook.png"/>
+</a>
+<a href="https://www.instagram.com/vt_norton">
+  <img align="left" alt="Instagram" width="32px" src="./img/instagram.png"/>
+</a>
+<a href="https://www.twitter.com/vt_norton">
+  <img align="left" alt="Twitter" width="32px" src="./img/twitter.png"/>
+</a>
+<a href="https://www.twitch.tv/vt_norton">
+  <img align="left" alt="Twitch" width="32px" src="./img/twitch.png"/>
+</a>
+
+## My Stats
 
 <a href="https://github.com/vtnorton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtnorton&show_icons=true&theme=dark" />
@@ -76,23 +94,3 @@ I love to learn and discuss about new technologies
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <br />
-
-
-###  🤝🏻 Connect with Me
-
-
-<a href="https://www.linkedin.com/in/vtnorton/"/>
-  <img align="left" alt="LinkedIn" width="32px" src="./img/linkedin.png">
-</a>
-<a href="mailto:vitor@vtnorton.com">
-  <img align="left" alt="E-mail" width="32px" src="./img/outlook.png"/>
-</a>
-<a href="https://www.instagram.com/vt_norton">
-  <img align="left" alt="Instagram" width="32px" src="./img/instagram.png"/>
-</a>
-<a href="https://www.twitter.com/vt_norton">
-  <img align="left" alt="Twitter" width="32px" src="./img/twitter.png"/>
-</a>
-<a href="https://www.twitch.tv/vt_norton">
-  <img align="left" alt="Twitch" width="32px" src="./img/twitch.png"/>
-</a>
