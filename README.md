@@ -29,6 +29,7 @@ I love to learn and discuss about new technologies
 <a href="https://www.twitch.tv/vt_norton">
   <img align="left" alt="Twitch" width="32px" src="./img/twitch.png"/>
 </a>
+<br />
 
 ## My Stats
 
