@@ -7,8 +7,7 @@
 I love to learn and discuss about new technologies
 - 🤔 I’m currently working on and looking for help with my current big project [heartthrob](https://github.com/vtnorton/heartthrob), on the repo page you can see the roadmap.
 - 😎 I like to automate tasks to make life easier.
-- 🔭 I’m currently working at <a href="https://github.com/meliuz/">Méliuz</a> as Tech Writer.
-- 📖 Studying developer experiences
+- 📖 Studying developer experiences and greek mythology.
 - 👯 I’m looking to collaborate on projects that increases digital inclusion, help people how to code or just for fun.
 - 🚀 <a href="https://vtnorton.com" >More info about me</a>
 
