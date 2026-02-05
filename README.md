@@ -1,12 +1,8 @@
 # Hi I'm Vítor Norton (ele/dele - he/his)
 
-<img src='./img/vitor.jpg' />
-
 ## 💻 About Me
 
 I love to learn and discuss new technologies
-
-- 🤔 I’m currently working on and looking for help with my current big project [heartthrob](https://github.com/vtnorton/heartthrob), on the repo page you can see the roadmap.
 - 😎 I like to automate tasks to make life easier.
 - 📖 Studying developer experiences and Greek mythology.
 - 👯 I’m looking to collaborate on projects that increase digital inclusion, help people how to code, or just for fun.
