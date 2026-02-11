@@ -1,3 +1,7 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 # Hi I'm Vítor Norton (ele/dele - he/his)
 
 ## `> whoami`
@@ -27,6 +31,8 @@ I love to learn and discuss new technologies
 </a>
 <br />
 
+<i class="devicon-html5-plain"></i>
+          
 
 
 ### `> tech_stack`
