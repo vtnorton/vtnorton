@@ -1,7 +1,3 @@
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
 # Hi I'm Vítor Norton (ele/dele - he/his)
 
 ## `> whoami`
@@ -31,8 +27,6 @@ I love to learn and discuss new technologies
 </a>
 <br />
 
-<i class="devicon-html5-plain"></i>
-          
 
 
 ### `> tech_stack`
@@ -117,7 +111,7 @@ I love to learn and discuss new technologies
       <td width="20%"><b>🌱 Learning</b><br><i>Current Focus</i></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><img height="20" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" /></td>
     </tr>
   </tbody>
 </table>
