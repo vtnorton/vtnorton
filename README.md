@@ -36,7 +36,7 @@ I love to learn and discuss new technologies
   <thead>
     <tr>
       <th width="20%" align="left"></th>
-      <th width="26%" align="left">Frontend &amp; Mobile</th>
+      <th width="26%" align="left">Frontend</th>
       <th width="26%" align="left">Backend &amp; Data</th>
       <th width="26%" align="left">Tools &amp; DevOps</th>
     </tr>
@@ -45,20 +45,24 @@ I love to learn and discuss new technologies
     <tr>
       <td width="20%"><b>🚀 Daily Drivers</b><br><i>Core Specialist</i></td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" />
+        <img src="https://img.shields.io/badge/-html-333333?style=flat&logo=html5&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-react-333333?style=flat&logo=react&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-sass-333333?style=flat&logo=sass&logoColor=fff" />
       </td>
       <td>
-        <!-- Placeholder for daily backend drivers -->
+        <img src="https://img.shields.io/badge/-nodejs-333333?style=flat&logo=node.js&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-bun-333333?style=flat&logo=bun&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-hono-333333?style=flat&logo=hono&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=fff" />
       </td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+        <img src="https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-supabase-333333?style=flat&logo=supabase&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-railway-333333?style=flat&logo=railway&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-git-333333?style=flat&logo=git&logoColor=fff" />
       </td>
     </tr>
     <tr>
@@ -97,6 +101,7 @@ I love to learn and discuss new technologies
     <tr>
       <td width="20%"><b>🔧 Maintenance</b><br><i>Occasional</i></td>
       <td>
+        <img src="https://img.shields.io/badge/-redux-333333?style=flat&logo=redux&logoColor=fff" />
         <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" />
       </td>
       <td>
