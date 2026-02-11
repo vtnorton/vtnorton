@@ -59,7 +59,7 @@ I love to learn and discuss new technologies
 ### 🌱 Learning  
 <small>Current Focus</small>
 - **Frontend & Mobile:** —
-- **Backend & Data:** —
+- **Backend & Data:** ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 - **Tools & DevOps:** —
 
 <br />
