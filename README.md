@@ -50,73 +50,71 @@ I love to learn and discuss new technologies
         <img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript&logoColor=fff" />
         <img src="https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript&logoColor=fff" />
         <img src="https://img.shields.io/badge/-sass-333333?style=flat&logo=sass&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-nodejs-333333?style=flat&logo=node.js&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=fff" />
         <img src="https://img.shields.io/badge/-bun-333333?style=flat&logo=bun&logoColor=fff" />
         <img src="https://img.shields.io/badge/-hono-333333?style=flat&logo=hono&logoColor=fff" />
         <img src="https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=fff" />
         <img src="https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-SQL Server-333333?style=flat&logo=mssql&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel&logoColor=fff" />
         <img src="https://img.shields.io/badge/-supabase-333333?style=flat&logo=supabase&logoColor=fff" />
         <img src="https://img.shields.io/badge/-railway-333333?style=flat&logo=railway&logoColor=fff" />
         <img src="https://img.shields.io/badge/-git-333333?style=flat&logo=git&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma&logoColor=fff" />
       </td>
     </tr>
     <tr>
-      <td width="20%"><b>🛠️ Proficient</b><br><i>Production Ready</i></td>
+      <td width="20%"><b>🛠️ Proficient</b><br><i>Production delivered</i></td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="jasmine" />
+        <img src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-OOXML-333333?style=flat&logo=ooxml&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=fff" />
       </td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" />
+        <img src="https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb&logoColor=fff" />
       </td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="nuget" />
+        <img src="https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-nuget-333333?style=flat&logo=nuget&logoColor=fff" />
       </td>
     </tr>
     <tr>
       <td width="20%"><b>📦 Competent</b><br><i>Comfortable</i></td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="adobe xd" />
+      <img src="https://img.shields.io/badge/-jasmine-333333?style=flat&logo=jasmine&logoColor=fff" />
       </td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" />
       </td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" />
+        <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=fff" /> 
       </td>
     </tr>
     <tr>
       <td width="20%"><b>🔧 Maintenance</b><br><i>Occasional</i></td>
       <td>
         <img src="https://img.shields.io/badge/-redux-333333?style=flat&logo=redux&logoColor=fff" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" />
+        <img src="https://img.shields.io/badge/-ionic-333333?style=flat&logo=ionic&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-React Native-333333?style=flat&logo=react&logoColor=fff" />
       </td>
       <td>
         <!-- Placeholder for occasional backend -->
       </td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" />
+        <img src="https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=fff" /> 
       </td>
     </tr>
     <tr>
       <td width="20%"><b>🌱 Learning</b><br><i>Current Focus</i></td>
       <td></td>
       <td></td>
-      <td><img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" /></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -130,21 +128,20 @@ I love to learn and discuss new technologies
     <tr>
       <td width="25%"><b>👴 Retired Specialist</b></td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" />
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" />
+        <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=fff" /> 
+        <img src="https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-FileZilla-333333?style=flat&logo=filezilla&logoColor=fff" />
       </td>
     </tr>
     <tr>
       <td width="25%"><b>🦕 Legacy Maintainer</b></td>
       <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" />
+        <img src="https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=fff" /> 
       </td>
     </tr>
     <tr>
       <td width="25%"><b>👻 Past Exposure</b></td>
-      <td>
-        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" />
-      </td>
+      <td></td>
     </tr>
   </table>
 </details>
