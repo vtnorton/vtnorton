@@ -13,13 +13,10 @@
 
 Hi I'm Vítor Norton (ele/dele - he/his)
 
-I love to learn and discuss new technologies
-- 😎 I like to automate tasks to make life easier.
-- 📖 Studying developer experiences and Greek mythology.
+- 🌍 Based in São Paulo, Brazil. Languages: Portuguese + English.
+- 🎞️ ABSOLUTE CINEMA: Always bingewatching the Oscars every year.
+- 📖 I'm into ancient history, currently learning everything I can about greek and roman mythology and history.
 - 👯 I’m looking to collaborate on projects that increase digital inclusion, help people how to code, or just for fun.
-- 🚀 <a href="https://vtnorton.com" >More info about me</a>
-
-
 
 
 ### `> tech_stack`
