@@ -50,7 +50,7 @@ I love to learn and discuss new technologies
 - **Backend & Data:** <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" /> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" />
 - **Tools & DevOps:** <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" />
 
-### 🔧 Maintenance  
+**🔧 Maintenance** <br />
 <small>Occasional</small>
 - **Frontend & Mobile:** <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" />
 - **Backend & Data:** —
