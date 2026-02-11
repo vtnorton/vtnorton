@@ -51,6 +51,7 @@ I love to learn and discuss new technologies
         <img src="https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript&logoColor=fff" />
         <img src="https://img.shields.io/badge/-sass-333333?style=flat&logo=sass&logoColor=fff" />
         <img src="https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-docusaurus-333333?style=flat&logo=docusaurus&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-nodejs-333333?style=flat&logo=node.js&logoColor=fff" />
@@ -74,26 +75,35 @@ I love to learn and discuss new technologies
       <td>
         <img src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=fff" />
         <img src="https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=fff" />
-        <img src="https://img.shields.io/badge/-OOXML-333333?style=flat&logo=ooxml&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-OOXML-333333?style=flat&logo=xml&logoColor=fff" />
         <img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=fff" />
       </td>
       <td>
+        <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=fff" />
         <img src="https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=fff" />
         <img src="https://img.shields.io/badge/-nuget-333333?style=flat&logo=nuget&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-GitHub Actions-333333?style=flat&logo=github&logoColor=fff" /> 
+        <img src="https://img.shields.io/badge/-OpenAPI-333333?style=flat&logo=openapiinitiative&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger&logoColor=fff" />
       </td>
     </tr>
     <tr>
       <td width="20%"><b>📦 Competent</b><br><i>Comfortable</i></td>
       <td>
-      <img src="https://img.shields.io/badge/-jasmine-333333?style=flat&logo=jasmine&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-cypress-333333?style=flat&logo=cypress&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-jasmine-333333?style=flat&logo=jasmine&logoColor=fff" />
       </td>
       <td>
+        <img src="https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-redis-333333?style=flat&logo=redis&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=fff" /> 
+        <img src="https://img.shields.io/badge/-gitlab CI-333333?style=flat&logo=gitlab&logoColor=fff" /> 
       </td>
     </tr>
     <tr>
@@ -104,16 +114,22 @@ I love to learn and discuss new technologies
         <img src="https://img.shields.io/badge/-React Native-333333?style=flat&logo=react&logoColor=fff" />
       </td>
       <td>
-        <!-- Placeholder for occasional backend -->
+        <img src="https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=fff" /> 
       </td>
     </tr>
     <tr>
-      <td width="20%"><b>🌱 Learning</b><br><i>Current Focus</i></td>
-      <td></td>
-      <td></td>
+      <td width="20%"><b>🌱 Learning</b><br><i>Had fun working with</i></td>
+      <td>
+        <img src="https://img.shields.io/badge/-expo-333333?style=flat&logo=expo&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-ThreeJS-333333?style=flat&logo=threedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-chartdotjs-333333?style=flat&logo=chartdotjs&logoColor=fff" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-go-333333?style=flat&logo=go&logoColor=fff" />
+      </td>
       <td></td>
     </tr>
   </tbody>
@@ -128,6 +144,7 @@ I love to learn and discuss new technologies
     <tr>
       <td width="25%"><b>👴 Retired Specialist</b></td>
       <td>
+        <img src="https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap&logoColor=fff" /> 
         <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=fff" /> 
         <img src="https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=fff" />
         <img src="https://img.shields.io/badge/-FileZilla-333333?style=flat&logo=filezilla&logoColor=fff" />
@@ -136,12 +153,18 @@ I love to learn and discuss new technologies
     <tr>
       <td width="25%"><b>🦕 Legacy Maintainer</b></td>
       <td>
+        <img src="https://img.shields.io/badge/-blazor-333333?style=flat&logo=blazor&logoColor=fff" /> 
         <img src="https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=fff" /> 
+        <img src="https://img.shields.io/badge/-nHibernate-333333?style=flat&logo=hibernate&logoColor=fff" /> 
       </td>
     </tr>
     <tr>
       <td width="25%"><b>👻 Past Exposure</b></td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/-subversion-333333?style=flat&logo=subversion&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-databricks-333333?style=flat&logo=databricks&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-wix-333333?style=flat&logo=wix&logoColor=fff" />
+      </td>
     </tr>
   </table>
 </details>
