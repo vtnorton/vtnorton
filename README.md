@@ -11,13 +11,22 @@
 
 ### `> whoami`
 
-Hi I'm Vítor Norton (ele/dele - he/his)
+Hi I'm Vítor Norton (ele/dele - he/his), I've worked at startups, fintechs, and companies I built myself. I've experienced everything: from waking up at 4 AM to ensure data pipelines worked, to teaching programming to people with disabilities and seniors.
+
+I've been a tech lead, teacher, developer advocate — but deep down, I've always been someone who likes connecting people, improving the developer experience, and making things simpler (even when they're difficult).
+
+For over 10 years I've been writing code, organizing events, creating content, connecting communities, and continue refusing to ignore new ideas and projects.
+
+**Quick Facts**
 
 - 🌍 Based in São Paulo, Brazil. Languages: Portuguese + English.
 - 🎞️ ABSOLUTE CINEMA: Always bingewatching the Oscars every year.
-- 📖 I'm into ancient history, currently learning everything I can about greek and roman mythology and history.
-- 👯 I’m looking to collaborate on projects that increase digital inclusion, help people how to code, or just for fun.
+- 📖 I'm into ancient history, currently learning everything I can about greek and roman mythology and history. 
+- 🎮 My favorite game is Blue Prince. 
+- 🏳️‍🌈 LGBTQIA+ Advocate: Proudly supporting diversity and inclusion in tech.
 
+<br />
+<br />
 
 ### `> tech_stack`
 
