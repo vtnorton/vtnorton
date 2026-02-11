@@ -11,19 +11,19 @@ I love to learn and discuss new technologies
 ### 🤝🏻 Connect with Me
 
 <a href="https://www.linkedin.com/in/vtnorton/"/>
-  <img align="left" alt="LinkedIn" src="./img/linkedin.png">
+  <img alt="LinkedIn" src="./img/linkedin.png">
 </a>
 <a href="mailto:vitor@vtnorton.com">
-  <img align="left" alt="E-mail" src="./img/outlook.png"/>
+  <img alt="E-mail" src="./img/outlook.png"/>
 </a>
 <a href="https://www.instagram.com/vt_norton">
-  <img align="left" alt="Instagram" src="./img/instagram.png"/>
+  <img alt="Instagram" src="./img/instagram.png"/>
 </a>
 <a href="https://www.twitter.com/vt_norton">
-  <img align="left" alt="Twitter" src="./img/twitter.png"/>
+  <img alt="Twitter" src="./img/twitter.png"/>
 </a>
 <a href="https://www.twitch.tv/vt_norton">
-  <img align="left" alt="Twitch" src="./img/twitch.png"/>
+  <img alt="Twitch" src="./img/twitch.png"/>
 </a>
 <br />
 
