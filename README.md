@@ -25,8 +25,6 @@ For over 10 years I've been writing code, organizing events, creating content, c
 - 🎮 My favorite game is Blue Prince. 
 - 🏳️‍🌈 LGBTQIA+ Advocate: Proudly supporting diversity and inclusion in tech.
 
-<br />
-<br />
 
 ### `> tech_stack`
 
@@ -172,3 +170,9 @@ For over 10 years I've been writing code, organizing events, creating content, c
   </table>
 </details>
 <br />
+
+### `> stats`
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
