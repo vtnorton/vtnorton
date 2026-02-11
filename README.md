@@ -31,13 +31,13 @@ I love to learn and discuss new technologies
 ## `> tech_stack`
 
 <!-- Stack Modernization -->
-<table>
+<table border="0" width="100%">
   <thead>
     <tr>
-      <th width="20%">Seniority</th>
-      <th width="26%">Frontend &amp; Mobile</th>
-      <th width="26%">Backend &amp; Data</th>
-      <th width="26%">Tools &amp; DevOps</th>
+      <th width="20%" align="left">Seniority</th>
+      <th width="26%" align="left">Frontend &amp; Mobile</th>
+      <th width="26%" align="left">Backend &amp; Data</th>
+      <th width="26%" align="left">Tools &amp; DevOps</th>
     </tr>
   </thead>
   <tbody>
@@ -120,7 +120,7 @@ I love to learn and discuss new technologies
 <details>
   <summary><b>🏛️ The Museum (Legacy &amp; Past stacks)</b></summary>
   <br />
-  <table>
+  <table border="0">
     <tr>
       <td width="25%"><b>👴 Retired Specialist</b></td>
       <td>
