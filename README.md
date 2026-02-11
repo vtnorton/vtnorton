@@ -1,6 +1,6 @@
 # Hi I'm Vítor Norton (ele/dele - he/his)
 
-## 💻 About Me
+## `> whoami`
 
 I love to learn and discuss new technologies
 - 😎 I like to automate tasks to make life easier.
@@ -11,89 +11,135 @@ I love to learn and discuss new technologies
 ### 🤝🏻 Connect with Me
 
 <a href="https://www.linkedin.com/in/vtnorton/"/>
-  <img align="left" alt="LinkedIn" width="32px" src="./img/linkedin.png">
+  <img align="left" alt="LinkedIn" src="./img/linkedin.png">
 </a>
 <a href="mailto:vitor@vtnorton.com">
-  <img align="left" alt="E-mail" width="32px" src="./img/outlook.png"/>
+  <img align="left" alt="E-mail" src="./img/outlook.png"/>
 </a>
 <a href="https://www.instagram.com/vt_norton">
-  <img align="left" alt="Instagram" width="32px" src="./img/instagram.png"/>
+  <img align="left" alt="Instagram" src="./img/instagram.png"/>
 </a>
 <a href="https://www.twitter.com/vt_norton">
-  <img align="left" alt="Twitter" width="32px" src="./img/twitter.png"/>
+  <img align="left" alt="Twitter" src="./img/twitter.png"/>
 </a>
 <a href="https://www.twitch.tv/vt_norton">
-  <img align="left" alt="Twitch" width="32px" src="./img/twitch.png"/>
+  <img align="left" alt="Twitch" src="./img/twitch.png"/>
 </a>
 <br />
 
-## My Stats
 
-<a href="https://github.com/vtnorton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtnorton&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vtnorton&theme=dark&layout=compact" />
-</a>
+## `> tech_stack`
 
-## Tech stacks
+<!-- Stack Modernization -->
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Seniority</th>
+      <th width="26%">Frontend &amp; Mobile</th>
+      <th width="26%">Backend &amp; Data</th>
+      <th width="26%">Tools &amp; DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="20%"><b>🚀 Daily Drivers</b><br><i>Core Specialist</i></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" />
+      </td>
+      <td>
+        <!-- Placeholder for daily backend drivers -->
+      </td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+      </td>
+    </tr>
+    <tr>
+      <td width="20%"><b>🛠️ Proficient</b><br><i>Production Ready</i></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="jasmine" />
+      </td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" />
+      </td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="nuget" />
+      </td>
+    </tr>
+    <tr>
+      <td width="20%"><b>📦 Competent</b><br><i>Comfortable</i></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="adobe xd" />
+      </td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" />
+      </td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" />
+      </td>
+    </tr>
+    <tr>
+      <td width="20%"><b>🔧 Maintenance</b><br><i>Occasional</i></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" />
+      </td>
+      <td>
+        <!-- Placeholder for occasional backend -->
+      </td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" />
+      </td>
+    </tr>
+    <tr>
+      <td width="20%"><b>🌱 Learning</b><br><i>Current Focus</i></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-### frontend
-
-<img align="left" width="32px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" width="32px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" width="32px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" width="32px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" width="32px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <br />
 
-### frameworks
-
-<img align="left" width="32px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" width="32px" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" width="32px" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<br />
-
-### testing it all
-
-<img align="left" width="32px" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" width="32px" alt="jasmine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" />
-<br />
-
-### dotnet
-
-<img align="left" width="32px" alt="dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" width="32px" alt="azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" width="32px" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" width="32px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" width="32px" alt="windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" width="32px" alt="sql server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<br />
-
-### developing for developers
-
-<img align="left" width="32px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" width="32px" alt="storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-<img align="left" width="32px" alt="nuget" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
-<br />
-
-### weekends jobs
-
-<img align="left" width="32px" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" width="32px" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="left" width="32px" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-<img align="left" width="32px" alt="filezilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-<br />
-
-### design & tools
-
-<img align="left" width="32px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" width="32px" alt="adobe xd" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-<br />
-
-### miscellaneous
-
-<img align="left" width="32px" alt="ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-<img align="left" width="32px" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" width="32px" alt="postgre sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" width="32px" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" width="32px" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<details>
+  <summary><b>🏛️ The Museum (Legacy &amp; Past stacks)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="25%"><b>👴 Retired Specialist</b></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" />
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><b>🦕 Legacy Maintainer</b></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><b>👻 Past Exposure</b></td>
+      <td>
+        <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" />
+      </td>
+    </tr>
+  </table>
+</details>
 <br />
