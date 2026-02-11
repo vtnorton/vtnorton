@@ -111,7 +111,7 @@ I love to learn and discuss new technologies
       <td width="20%"><b>🌱 Learning</b><br><i>Current Focus</i></td>
       <td></td>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" /></td>
+      <td><img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" /></td>
     </tr>
   </tbody>
 </table>
