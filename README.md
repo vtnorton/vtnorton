@@ -1,6 +1,17 @@
-# Hi I'm Vítor Norton (ele/dele - he/his)
+<div align="center">
 
-## `> whoami`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vtnorton/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-162C44?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://vtnorton.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor@vtnorton.com)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vt_norton)
+[![Twitch](https://img.shields.io/twitch/status/vt_norton?style=for-the-badge&color=9146FF)](https://www.twitch.tv/vt_norton)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMM0acsrwNvI0tEML8-vAjw?style=for-the-badge&color=FF0000)](https://www.youtube.com/@vt_norton)
+
+</div>
+
+### `> whoami`
+
+Hi I'm Vítor Norton (ele/dele - he/his)
 
 I love to learn and discuss new technologies
 - 😎 I like to automate tasks to make life easier.
@@ -8,24 +19,6 @@ I love to learn and discuss new technologies
 - 👯 I’m looking to collaborate on projects that increase digital inclusion, help people how to code, or just for fun.
 - 🚀 <a href="https://vtnorton.com" >More info about me</a>
 
-### 🤝🏻 Connect with Me
-
-<a href="https://www.linkedin.com/in/vtnorton/"/>
-  <img alt="LinkedIn" src="./img/linkedin.png">
-</a>
-<a href="mailto:vitor@vtnorton.com">
-  <img alt="E-mail" src="./img/outlook.png"/>
-</a>
-<a href="https://www.instagram.com/vt_norton">
-  <img alt="Instagram" src="./img/instagram.png"/>
-</a>
-<a href="https://www.twitter.com/vt_norton">
-  <img alt="Twitter" src="./img/twitter.png"/>
-</a>
-<a href="https://www.twitch.tv/vt_norton">
-  <img alt="Twitch" src="./img/twitch.png"/>
-</a>
-<br />
 
 
 
@@ -114,6 +107,7 @@ I love to learn and discuss new technologies
         <img src="https://img.shields.io/badge/-Redux-7C3AED?style=flat&logo=redux&logoColor=fff" />
         <img src="https://img.shields.io/badge/-Ionic-7C3AED?style=flat&logo=ionic&logoColor=fff" />
         <img src="https://img.shields.io/badge/-React Native-7C3AED?style=flat&logo=react&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-Radix UI-4B5563?style=flat&logo=radixui&logoColor=fff" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Python-1F2937?style=flat&logo=python&logoColor=fff" />
