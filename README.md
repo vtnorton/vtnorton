@@ -29,7 +29,7 @@ I love to learn and discuss new technologies
 
 
 
-## `> tech_stack`
+### `> tech_stack`
 
 <!-- Stack Modernization -->
 <table border="0" width="100%">
