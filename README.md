@@ -28,13 +28,14 @@ I love to learn and discuss new technologies
 <br />
 
 
+
 ## `> tech_stack`
 
 <!-- Stack Modernization -->
 <table border="0" width="100%">
   <thead>
     <tr>
-      <th width="20%" align="left">Seniority</th>
+      <th width="20%" align="left"></th>
       <th width="26%" align="left">Frontend &amp; Mobile</th>
       <th width="26%" align="left">Backend &amp; Data</th>
       <th width="26%" align="left">Tools &amp; DevOps</th>
@@ -45,6 +46,7 @@ I love to learn and discuss new technologies
       <td width="20%"><b>🚀 Daily Drivers</b><br><i>Core Specialist</i></td>
       <td>
         <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
+        ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
         <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
         <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
         <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
