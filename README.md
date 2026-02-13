@@ -174,7 +174,7 @@ For over 10 years I've been writing code, organizing events, creating content, c
 ### `> stats`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C322%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C322%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -215,6 +215,6 @@ Bash                     7 mins              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2026 16:06:29 UTC
+ Last Updated on 13/02/2026 16:06:51 UTC
 <!--END_SECTION:waka-->
 
