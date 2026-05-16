@@ -174,6 +174,8 @@ For over 10 years I've been writing code, organizing events, creating content, c
 ### `> stats`
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C427%20hrs%2036%20mins-blue?style=flat)
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -187,6 +189,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 01:00:45 UTC
+ Last Updated on 16/05/2026 00:55:35 UTC
 <!--END_SECTION:waka-->
 
