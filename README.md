@@ -26,6 +26,12 @@ For over 10 years I've been writing code, organizing events, creating content, c
 - 🏳️‍🌈 LGBTQIA+ Advocate: Proudly supporting diversity and inclusion in tech.
 
 
+### `> certifications`
+
+<a href="https://www.credly.com/badges/541e9f9d-bbdc-4b6a-acc1-b53975e61998"><img src="https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" alt="Claude Certified Architect - Professional" width="120" /></a>
+<a href="https://www.credly.com/badges/75815419-8cf0-480b-a1ae-0052ff375646"><img src="https://images.credly.com/images/d8bc1ecf-6369-4bf9-8920-84169b35d918/blob" alt="Claude Partner Badge - Claude Code" width="120" /></a>
+
+
 ### `> tech_stack`
 
 <!-- Stack Modernization -->
