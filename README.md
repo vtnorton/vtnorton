@@ -180,20 +180,24 @@ For over 10 years I've been writing code, organizing events, creating content, c
 ### `> stats`
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C025%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-722%20hrs%204%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                10900 commits       █████████░░░░░░░░░░░░░░░░   34.74 % 
 🌆 Daytime                13107 commits       ██████████░░░░░░░░░░░░░░░   41.78 % 
-🌃 Evening                6786 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+🌃 Evening                6787 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
 🌙 Night                  579 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6185 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Monday                   6185 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 Tuesday                  6398 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Wednesday                5975 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Wednesday                5976 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 Thursday                 5048 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 Friday                   4552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 Saturday                 1740 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
@@ -248,6 +252,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 21:57:47 UTC
+ Last Updated on 19/11/2026 00:47:43 UTC
 <!--END_SECTION:waka-->
 
