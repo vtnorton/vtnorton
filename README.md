@@ -180,15 +180,15 @@ For over 10 years I've been writing code, organizing events, creating content, c
 ### `> stats`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-724%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-728%20hrs%2036%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11224 commits       █████████░░░░░░░░░░░░░░░░   34.91 % 
-🌆 Daytime                13440 commits       ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌞 Morning                11227 commits       █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌆 Daytime                13440 commits       ██████████░░░░░░░░░░░░░░░   41.79 % 
 🌃 Evening                6904 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
 🌙 Night                  587 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
@@ -198,7 +198,7 @@ For over 10 years I've been writing code, organizing events, creating content, c
 Monday                   6329 commits        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 Tuesday                  6607 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 Wednesday                6138 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Thursday                 5138 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Thursday                 5141 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Friday                   4704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 Saturday                 1745 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Sunday                   1494 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
@@ -209,35 +209,35 @@ Sunday                   1494 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 16 mins      █████████████░░░░░░░░░░░░   53.54 % 
-TypeScript               6 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 7 hrs 47 mins       █████████████░░░░░░░░░░░░   52.17 % 
+TypeScript               5 hrs               ████████░░░░░░░░░░░░░░░░░   33.52 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 50 mins (98.11%)
+⏱ AI Coding Time: 14 hrs 35 mins (97.62%)
 
-✍️ 12,530 lines written by AI, 6 lines written by hand (99.95% AI-written)
+✍️ 10,764 lines written by AI, 5 lines written by hand (99.95% AI-written)
 
-🔤 12,312,981 Input Tokens, 2,085,115 Output Tokens
+🔤 9,426,483 Input Tokens, 1,591,963 Output Tokens
 
-💵 $266.40 Estimated AI Cost This Week
+💵 $194.26 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 372 AI Prompts
+🧠 43 AI Sessions, 313 AI Prompts
 
-Opus                     14,015 lines        ████████████████████████░   94.62 % 
-Fable                    797 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Opus                     12,885 lines        █████████████████████████   99.98 % 
+Fable                    3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 3,074 characters per prompt
+📚 Verbose Prompter — average 2,698 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.95% of changed lines were hand-edited
+🚀 High AI Trust — 2.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -253,6 +253,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 00:47:01 UTC
+ Last Updated on 22/11/2026 00:47:48 UTC
 <!--END_SECTION:waka-->
 
