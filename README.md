@@ -187,21 +187,21 @@ For over 10 years I've been writing code, organizing events, creating content, c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11888 commits       █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌆 Daytime                14143 commits       ██████████░░░░░░░░░░░░░░░   41.90 % 
-🌃 Evening                7123 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌙 Night                  599 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+🌞 Morning                11746 commits       █████████░░░░░░░░░░░░░░░░   35.09 % 
+🌆 Daytime                14052 commits       ██████████░░░░░░░░░░░░░░░   41.98 % 
+🌃 Evening                7073 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+🌙 Night                  601 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6602 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Tuesday                  7008 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Wednesday                6520 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Thursday                 5371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Friday                   4974 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Saturday                 1748 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Sunday                   1530 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Monday                   6540 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Tuesday                  6948 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Wednesday                6440 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Thursday                 5350 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Friday                   4920 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 1752 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Sunday                   1522 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -209,35 +209,35 @@ Sunday                   1530 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 45 mins       █████████████░░░░░░░░░░░░   52.04 % 
-TypeScript               5 hrs               ████████░░░░░░░░░░░░░░░░░   33.62 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown                 7 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.68 % 
+TypeScript               6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.86 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 35 mins (97.91%)
+⏱ AI Coding Time: 16 hrs 2 mins (97.97%)
 
-✍️ 10,764 lines written by AI, 5 lines written by hand (99.95% AI-written)
+✍️ 12,259 lines written by AI, 13 lines written by hand (99.89% AI-written)
 
-🔤 9,426,483 Input Tokens, 1,591,963 Output Tokens
+🔤 11,044,238 Input Tokens, 1,793,265 Output Tokens
 
-💵 $194.26 Estimated AI Cost This Week
+💵 $226.11 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 313 AI Prompts
+🧠 48 AI Sessions, 368 AI Prompts
 
-Opus                     12,885 lines        █████████████████████████   99.98 % 
-Fable                    3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Opus                     14,470 lines        █████████████████████████   99.43 % 
+Fable                    83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 2,698 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 2,837 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -253,6 +253,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 00:50:13 UTC
+ Last Updated on 25/11/2026 00:49:07 UTC
 <!--END_SECTION:waka-->
 
